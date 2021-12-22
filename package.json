@@ -24,6 +24,6 @@
     "@datapunt/matomo-tracker-js": "^0.5.1"
   },
   "publishConfig": {
-    "@Snowball-Finance:registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/@snowball-finance"
   }
 }
