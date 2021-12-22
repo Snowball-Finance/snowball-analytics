@@ -17,9 +17,9 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "baseUrl": "./",
+    "baseUrl": "./src",
   "declaration": true,
-  "outDir": "./lib",
+  "outDir": "./",
   "jsx": "react-jsx"
 },
 "include": ["./"],
