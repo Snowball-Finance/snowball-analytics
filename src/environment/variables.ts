@@ -1,0 +1,4 @@
+export const env = {
+  ANALYTICS_ENDPOINT: process.env.REACT_APP_ANALYTICS_ENDPOINT,
+  ANALYTICS_SITE_ID: process.env.REACT_APP_ANALYTICS_SITE_ID
+}
