@@ -22,5 +22,8 @@
   },
   "dependencies": {
     "@datapunt/matomo-tracker-js": "^0.5.1"
+  },
+  "publishConfig": {
+    "@mohsenParvar:registry": "https://npm.pkg.github.com"
   }
 }
