@@ -1,5 +1,5 @@
 {
-  "name": "@snowball-finance/snowball-analytics",
+  "name": "snowball-analytics",
   "version": "1.0.0",
   "description": "Snowball Analytics package",
   "main": "lib/index.js",
@@ -24,6 +24,6 @@
     "@datapunt/matomo-tracker-js": "^0.5.1"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@Snowball-Finance"
+    "@Snowball-Finance:registry": "https://npm.pkg.github.com/"
   }
 }
