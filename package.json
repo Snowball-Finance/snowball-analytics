@@ -1,5 +1,5 @@
 {
-  "name": "snowball-analytics",
+  "name": "@snowball-finance/snowball-analytics",
   "version": "1.0.0",
   "description": "Snowball Analytics package",
   "main": "lib/index.js",
