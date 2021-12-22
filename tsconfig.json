@@ -17,11 +17,11 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "baseUrl": "./src",
+    "baseUrl": "./",
   "declaration": true,
   "outDir": "./lib",
   "jsx": "react-jsx"
 },
-"include": ["src"],
+"include": ["./"],
 "exclude": ["node_modules", "**/__tests__/*"]
 }
